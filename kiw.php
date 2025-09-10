@@ -8,7 +8,7 @@
   <meta name="author" content="BKN CSIRT" />
   <meta name="theme-color" content="#000000" />
   <meta property="og:title" content="BKN CSIRT WAS HERE" />
-  <meta property="og:description" content="NEWBIE CYBER SECURITY" />
+  <meta property="og:description" content="BKN CSIRT" />
   <meta property="og:image" content="https://i.ibb.co/dsMSfPqj/056.png" />
   <meta property="og:type" content="website" />
   <link rel="icon" href="https://iili.io/Kz5NfPp.png" />
